@@ -85,19 +85,19 @@ And You!
 
 ### To do List
 
-- [x]Timing Data Analysis
+- [x] Timing Data Analysis
 
-- [x]CustomizeTiming
+- [x] CustomizeTiming
 
-- []TimingMultiplier
+- [] TimingMultiplier
 
-- [x]BetterOffseter
+- [x] BetterOffseter
 
-- [x]TimingReverser
+- [x] TimingReverser
 
-- []By Timimg_Object Aligner
+- [] By Timimg_Object Aligner
 
-- []Note2FakeNote
+- [] Note2FakeNote
 
 ---
 
