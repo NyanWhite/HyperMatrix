@@ -39,11 +39,15 @@ The worksheet is still in production so it is not available, you can download it
 
 ![image-20221120133831353](3.png)
 
-Timing offsetters based on object timing are easier to use than manual input re-offsets, and also facilitate object-dependent Timing alignment without using osu!'s own object re-alignment tool in the event of >1ms deviations caused by incomplete timing divisions.
+> TimingOffsetters based on object timing are easier to use than manual input re-offsets, and also facilitate object-dependent Timing alignment without using osu!'s own object re-alignment tool in the event of >1ms deviations caused by incomplete timing divisions.
 
 BetterOffseter can now be used in three modes other than OSUMania mode, simply by switch the version of the splitting function
 
-V1 Or V2
+About Version
+
+### V1
+
+### V2
 
 ---
 
