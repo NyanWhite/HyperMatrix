@@ -95,9 +95,9 @@ And You!
 
 - [x] TimingReverser
 
-- [] By Timimg_Object Aligner
+- [ ] By Timimg_Object Aligner
 
-- [] Note2FakeNote
+- [ ] Note2FakeNote
 
 ---
 
