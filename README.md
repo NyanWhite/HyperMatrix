@@ -89,7 +89,7 @@ And You!
 
 - [x] CustomizeTiming
 
-- [] TimingMultiplier
+- [ ] TimingMultiplier
 
 - [x] BetterOffseter
 
