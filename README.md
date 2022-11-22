@@ -1,4 +1,4 @@
-# NyanWhite-Customizer-Mania-Tools
+ú# NyanWhite-Customizer-Mania-Tools
 Sample Excel Document
 
 ---
@@ -11,7 +11,7 @@ Supports up to 50,000 timings, beyond which it will be unreadable. More timings 
 
 ## What it can do
 
-### Expanded_Timing_Data
+### Expanded Timing Data
 
 ![image-20221120132806212](1.png)
 
@@ -73,13 +73,19 @@ relies on the minutes, seconds, and milliseconds of the starting point of the co
 
 ### Note2FakeNote
 
+**Not available in LongNote, born from feature of LongNote.**
+
+> Generate fake notes based on object timestamps, this feature is fully implemented by using a mapping file with mania-xT.png in osu. Otherwise it will disappear and not be visible. Also, this tool requires the .osu file to be opened for operation. Later on, it may be possible to generate from copied content, but it is still necessary to add text in the osu file, which is not available in the osu editor, and the note is likely to disappear when saving the existing fake note. Please be careful when using it.
+
 ---
 
 # Special thanks
 
-datoujia:Frame Animation Generator
+datoujia:Frame Animation Generator,and more Converter
 
-And You!
+Open Source Office:Libra Office
+
+And User,You!
 
 ---
 
