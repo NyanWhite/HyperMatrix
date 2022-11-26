@@ -8,7 +8,7 @@ Just Sample Excel Help Document
 
 An Excel document with many tools, still WIP, feedback welcome.
 
-Supports up to 50,000 timings, beyond which it will be unreadable. More timings can be supported by confidently copying the formula column and adding it to the end.
+30,000 timings Limited, beyond which it will be unreadable. More timings can be supported by confidently copying the formula column and adding it to the end.
 
 ---
 
