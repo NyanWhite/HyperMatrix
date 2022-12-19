@@ -14,19 +14,19 @@
 
 - [x] Timing以及Object的数据展开 [基础功能]
 
-- [x] [自定义任意Timing数据](CN/TimingCustomizer.md)
+- [x] [自定义任意Timing数据](ZH/TimingCustomizer.md)
 
-- [x] [倍速工具](CN/Multiplier.md)
+- [x] [倍速工具](ZH/Multiplier.md)
 
-- [ ] [更好的偏移器](CH/BetterOffseter.md)
+- [ ] [更好的偏移器](ZH/BetterOffseter.md)
 
-- [x] [Timing翻转器](CN/TimingFlipper.md)
+- [x] [Timing翻转器](ZH/TimingFlipper.md)
 
-- [ ] [依靠Timing的Object对齐工具](CN/ObjectAligner.md)
+- [ ] [依靠Timing的Object对齐工具](ZH/ObjectAligner.md)
 
-- [x] [Note转FakeNote](CN/Note2FakeNote.md)
+- [x] [Note转FakeNote](ZH/Note2FakeNote.md)
 
-- [x] [FakeNote正常化](CN/FakeNoteNormalizer.md)
+- [x] [FakeNote正常化](ZH/FakeNoteNormalizer.md)
 
 划线的即为已完成 未划线但存在功能文件的表示为未全部完成
 
