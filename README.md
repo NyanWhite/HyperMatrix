@@ -6,6 +6,8 @@ idk how to name it...
 
 Just Sample Excel Help Document
 
+Using In Osu!Ingame Mania Beatmap Editor
+
 ---
 
 Language.
