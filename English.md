@@ -27,8 +27,5 @@ Underlined means completed,Not underlined but function file exists means not all
 
 Contact
 
-- QQ2282983971 
-- 2282983971@qq.com
-
-
-Translated with www.DeepL.com/Translator (free version)
+- http://NyanWhite.t.me
+- nyanwhite@foxmail.com

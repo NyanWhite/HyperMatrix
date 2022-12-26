@@ -34,5 +34,5 @@
 
 联系方式
 
-- QQ2282983971 
-- 2282983971@qq.com
+- http://NyanWhite.t.me
+- nyanwhite@foxmail.com
