@@ -1,12 +1,6 @@
-# HyperMatrix
+# QuartZ
 
-idk how to name it...
-
-![ICON Here](icon.png)
-
-Just Sample Excel Help Document
-
-Using In Osu!Ingame Mania Beatmap Editor
+The Auxiliary For Music Game Beatmap Making![ICON Here](icon.png)
 
 ---
 
